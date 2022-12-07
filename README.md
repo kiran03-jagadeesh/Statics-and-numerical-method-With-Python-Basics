@@ -1,7 +1,6 @@
 # Statics-and-numerical-method-With-Python-Basics
 ## AIM: 
-    Use python to code for the following Numerical Questions.
-
+     
 ## ALGORITHM:
 ### Step 1:
 
@@ -14,6 +13,10 @@
 
 ## QUESTIONS:
 1.Rapfson method.
+
+a:Find a positive real root of (x**4-x-10)=0 using newton Rapfson method.
+                
+b:Find a positive real root of (x**3-x-2)=0 using newton Rapfson method.
 
 2.Gauss-seidal method.
 
